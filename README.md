@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, Me llamo Agustín Caldart
+#### Este es mi Github. Gracias por pasarte
+![Este es mi Github. Gracias por pasarte](https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Header/images/banner.jpg)
 
-<!--
-**AgustinCaldart/AgustinCaldart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 26 años soy proveniente de Bariloche -Argentina pero radicado en Cordoba Capital. Me gusta en mi tiempo libre seguri aprendiendo lo mas que se puede del mundo IT
 
-Here are some ideas to get you started:
+Habilidades: React | JS | NodeJS | SQL | AWS | Redux 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Mejorar cada día 
+- 🌱 Estoy aprendiendo Python pero en un futuro aprender IA 
+- 📫 Cómo contactarme: caldart123@gmail.com 
+- 😄 Pronombres: Caldo 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AgustinCaldart)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/acaldart/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://agustincaldart.github.io/portfolio/)  
+
